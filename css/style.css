@@ -1,0 +1,14 @@
+#canvas1{
+    border: 2px solid red;
+    background-color: #fff;
+    border-radius: 20px;
+}
+#play-game{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.buttons{
+    margin: auto 10px;
+
+}
